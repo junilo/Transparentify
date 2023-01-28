@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Transparentify/Transparentify/bin/Debug/Transparentify.pdb
+/Transparentify/Transparentify/bin/Debug/Transparentify.exe.config
+/Transparentify/Transparentify/bin/Debug/Transparentify.exe
+/Transparentify/Transparentify/bin/Debug/Log
+/Transparentify/Transparentify/obj/Debug
